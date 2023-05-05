@@ -26,7 +26,7 @@ Release Notes.
 * Support MySQL plugin tracing SQL parameters when useServerPrepStmts 
 * Update the endpoint name of `Undertow` plugin to `Method:Path`.
 * Build a dummy(empty) javadoc of finagle and jdk-http plugins due to incompatibility.
-* Fix ClassCastException when SQLServer inserting data (#10741)
+* Fix ClassCastException when SQLServer inserting data
 
 #### Documentation
 * Update docs of Tracing APIs, reorganize the API docs into six parts.
